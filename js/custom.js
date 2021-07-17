@@ -16,4 +16,5 @@
             scrollTop: $( '.scroll-down' ).offset().top + 100
         }, 800 );
     });
+    print("coba by puji")
 })(jQuery);
